@@ -1,3 +1,5 @@
+body {background-color:#233554;
+    ;}
 .inline-block {
     display: inline-block;
     vertical-align: top;
@@ -10,6 +12,8 @@ padding: 1%;
 nav{
     width: 73%;
     padding: 1%;
+    background-color:  #233554;
+    ;
 
 }
 ul{
