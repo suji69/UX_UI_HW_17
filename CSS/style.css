@@ -1,5 +1,12 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Sarpanch:wght@400;500;600;700;800;900&family=Source+Sans+Pro&display=swap');
+
+
 body {background-color:#233554;
     ;}
+
 .inline-block {
     display: inline-block;
     vertical-align: top;
@@ -32,6 +39,42 @@ section.heroImg{
 .content{
     width: 500px;
     margin: 0 auto;
+    box-shadow: 5px 10px;
+    
+}
+.button {
+    background-color: #233554;
+    border: 2px solid ;
+    border-color: #64FFDA;
+    color: #64ffda;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Sarpanch;
+    box-shadow: 5px 10px black;
+  }
+h{
+    color:  #64FFDA;
+    font-size: 14px;
+
+}
+nav>ul>li {
+    color: #A8B2D1;
+    font-family: sarpanch;
+  
+}
+
+
+p{
+
+    color: #CCD6F6;
+    letter-spacing: 4px;
+    line-height: 25px;
+
 }
 footer{
     background-color: #373738 ;
